@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">M-Parking</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Select CIty</string>
+    <string name="title_activity_second">Select City</string>
+    <string name="title_activity_third">Select City</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_s2_1">Address</string>
+    <string name="title_activity_s3_1">Address</string>
+    <string name="title_activity_s22">s22Activity</string>
+    <string name="title_activity_s23">s23Activity</string>
+    <string name="title_activity_s24">s24Activity</string>
+    <string name="title_activity_s25">s25Activity</string>
+    <string name="title_activity_s26">s26Activity</string>
+    <string name="title_activity_s27">s27Activity</string>
+    <string name="title_activity_s32">s32Activity</string>
+    <string name="title_activity_s33">s33Activity</string>
+    <string name="title_activity_s34">s34Activity</string>
+    <string name="title_activity_s35">s35Activity</string>
+    <string name="title_activity_s36">s36Activity</string>
+    <string name="title_activity_s37">s37Activity</string>
+</resources>
